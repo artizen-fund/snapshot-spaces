@@ -1,4 +1,3 @@
-# snapshot-spaces for customizing Snapshot.
+# Artizen Snapshot Spaces settings
 
-- Added custom domain
-- Added custom skin
+See more information in [here](https://docs.snapshot.org/spaces/create)
